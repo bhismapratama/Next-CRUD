@@ -1,0 +1,29 @@
+{
+  "IT-Student": [
+    {
+      "name": "Adi",
+      "nim": "1001",
+      "id": 1
+    },
+    {
+      "name": "Budi",
+      "nim": "1002",
+      "id": 2
+    },
+    {
+      "name": "Rudi",
+      "nim": "1003",
+      "id": 3
+    },
+    {
+      "name": "Dito",
+      "nim": "1004",
+      "id": 4
+    },
+    {
+      "name": "Andi",
+      "nim": "1005",
+      "id": 5
+    }
+  ]
+}
